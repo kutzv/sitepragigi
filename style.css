@@ -1,0 +1,32 @@
+.grandes {text-align: right; width:40%;}
+#maconha {height: 70px}
+#top{color: aliceblue;}
+body {background: linear-gradient(black, rgb(96, 12, 12));
+    background-repeat: no-repeat;
+    margin: 20%;
+    margin-top: 10px;
+    }
+      
+      p {font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(200, 255, 0);
+border-top-style:dashed;    
+border-color: rgb(255, 0, 17);
+border-width: 3px;
+padding: 20px;
+border-radius: 15%;
+
+}
+img {margin-left: auto;
+margin-right: auto;}
+       h1 {
+        text-shadow: 0px -7px 10px rgb(255, 111, 0);
+            color: rgb(217, 255, 0);
+            font-family: notable;
+        border-bottom-style: dotted;
+        border-bottom-right-radius: 50%;
+        padding-left: 30px;
+    } 
+       h2 {font-family: modak;
+    color: coral;}
+    h3{font-family: modak;
+    color: rgb(249, 255, 80);}
